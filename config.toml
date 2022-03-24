@@ -1,4 +1,4 @@
-baseURL = "https://218a999a.sit-multi.pages.dev/"
+baseURL = "https://38a60042.sit-multi.pages.dev/"
 DefaultContentLanguage = "en"
 hasCJKLanguage = true
 ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
