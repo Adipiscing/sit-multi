@@ -1,14 +1,11 @@
 baseURL = "http://example.org/"
 DefaultContentLanguage = "en"
 hasCJKLanguage = true
-<<<<<<< HEAD
 ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 title = "Hugo"
 theme = "hello-friend"
-=======
 ignoreErrors = ["error-missing-instagram-accesstoken"]
 
->>>>>>> 97294a5af535f0dd04e6f20d05d4a905619a9857
 
 [Languages]
 [Languages.en]
