@@ -1,22 +1,51 @@
 baseURL = "http://example.org/"
 DefaultContentLanguage = "en"
 hasCJKLanguage = true
+ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
+title = "Hugo"
+theme = "hello-friend"
 
 [Languages]
 [Languages.en]
-title = "Multilingual Hugo Example"
 weight = 0
 languagename = "English"
+title = "Hello Friend"
+    subtitle = "A simple theme for Hugo"
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    writtenBy = "Written by"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    minuteReadingTime = "min read"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
+
+    [Languages.en.params.logo]
+      logoText = "hello friend"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
 
 [[Languages.en.menu.main]]
+identifier = "Home"
 url = "/"
 name = "Home"
 weight = 1
 
-[[Languages.en.menu.main]]
-url = "/about/"
-name = "About"
-weight = 0
+
+  [[Languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+      [[Languages.en.menu.main]]
+        identifier = "showcase"
+        name = "Showcase"
+        url = "/showcase/"
 
 [Languages.fr]
 title = "Multilingue Exemple Hugo"

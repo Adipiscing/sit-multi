@@ -8,7 +8,7 @@ draft = false
 
 +++
 
-Dui purus curàé posuere blandît aptent donéc fringilla phaséllœs quis sed nètus conséquat, rhoncus porté mlius quam nûllam est ultricités habitasse mauris dïam dapidûs "sélecrum", dolor intègèr convallis litora enim nullam aliquàm congés. Nombre class classé justo mié egéstat, convallis metus condimentum. Adipiscing curàbitur arcû incéptos duèis vulputate mollis néc curabitur augueé inceptos eros, anonyma potentié ultricités est varius etiam donec nîbh mollis ïpsum dui, curabitur platéa integer séd lectus tincidûnt integer nulla rhoncus nisi, famès morbi aliquam çunc id malésdum quisquées vehicula convallis. Name interdum tempès commodoé ligula bibendum cubliâ portitorsé éuismod curabitur c'est hâc, aliquam 21 898€ adipiscing risius ût nisl adipiscing voluptà sempér interdum, eleifend anté lacinia convallis posuere cubilia maecenas bibendum maécènas luctus èst, ad nec ad ultrûcéas commodoé. 
+Dui purus curàé posuere blandît aptent donéc fringilla phaséllœs quis sed nètus conséquat, rhoncus porté mlius quam nûllam est ultricités habitasse mauris dïam dapidûs "sélecrum", dolor intègèr convallis litora enim nullam aliquàm congés. Nombre class classé justo mié egéstat, convallis metus condimentum. Adipiscing curàbitur arcû incéptos duèis vulputate mollis néc curabitur augueé inceptos eros, anonyma potentié ultricités est varius etiam donec nîbh mollis ïpsum dui, curabitur platéa integer séd lectus tincidûnt integer nulla rhoncus nisi, famès morbi aliquam çunc id malésdum quisquées vehicula convallis. Name interdum tempès commodoé ligula bibendum cubliâ portitorsé éuismod curabitur c'est hâc, aliquam 21 898€ adipiscing risius ût nisl adipiscing voluptà sempér interdum, eleifend anté lacinia convallis posuere cubilia maecenas bibendum maécènas luctus èst, ad nec ad ultrûcéas commodoé.
 
 Highlight:
 
@@ -27,7 +27,7 @@ Figure:
 
 {{< figure src="/img/post/shortcodes/piano.jpg" title="A piano" >}}
 
-Relref: [À propos]({{< ref "about.en.md" >}})
+Relref: [À propos]({{< ref "about.fr.md" >}})
 
 Twitter:
 
