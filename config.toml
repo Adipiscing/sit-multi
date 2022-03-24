@@ -1,6 +1,8 @@
 baseURL = "http://example.org/"
 DefaultContentLanguage = "en"
 hasCJKLanguage = true
+ignoreErrors = ["error-missing-instagram-accesstoken"]
+
 
 [Languages]
 [Languages.en]
@@ -48,4 +50,3 @@ url = "/profile/"
 name = "プロフィール"
 weight = 0
 
-ignoreErrors = ["error-missing-instagram-accesstoken"]
