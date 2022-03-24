@@ -4,7 +4,6 @@ hasCJKLanguage = true
 ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 title = "Hugo"
 theme = "hello-friend"
-ignoreErrors = ["error-missing-instagram-accesstoken"]
 
 
 [Languages]
