@@ -27,7 +27,7 @@ Figure:
 
 {{< figure src="/img/post/shortcodes/piano.jpg" title="A piano" >}}
 
-Relref: [About]({{< ref "about.en.md" >}})
+Relref: [About]({{< ref "/content/about.en.md" >}})
 
 Twitter:
 
