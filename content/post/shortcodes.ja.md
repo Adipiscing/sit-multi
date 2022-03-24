@@ -27,7 +27,7 @@ draft = false
 
 {{< figure src="/img/post/shortcodes/piano.jpg" title="ピアノ" >}}
 
-Relref：[プロフィール]({{< ref "/content/about.ja.md" >}})
+Relref：[プロフィール]({{< ref "/opt/buildhome/repo/content/about.ja.md" >}})
 
 ツイッター
 
