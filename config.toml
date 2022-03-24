@@ -48,3 +48,4 @@ url = "/profile/"
 name = "プロフィール"
 weight = 0
 
+ignoreErrors = ["error-missing-instagram-accesstoken"]
